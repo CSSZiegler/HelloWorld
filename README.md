@@ -1,10 +1,9 @@
 HelloWorld Application
 =======================
 
-Application to Showcase of sample app.
+Sample HelloWorld application with a single Form, Button and Alert
 
 Project Owner: Malla Nandikonda <Malla.Nandikonda@kony.com>
 
 # Purpose
-This Application is showcase of sample app i.e. shows alert on onclick of button widget.
-
+With this application you can test KonyOne studio environment to ensure that you have setup emulators properly and they work correctly before you start developing more complex applications.
